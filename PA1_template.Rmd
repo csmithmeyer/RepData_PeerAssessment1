@@ -4,7 +4,7 @@ author: "Colby Smithmeyer
 date: "April 23, 2019"
 output: html_document
 ---
-#Reproducible Research: Project 1
+# Reproducible Research: Project 1
 
 ## Loading and preprocessing the data
 
